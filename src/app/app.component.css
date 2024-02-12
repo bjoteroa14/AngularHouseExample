@@ -1,0 +1,8 @@
+h1 {
+  font-size: 3.5rem;
+}
+h2 {
+  font-family: var(--title-font);
+  color: var(--font-color1);
+  font-size: 2rem;
+}

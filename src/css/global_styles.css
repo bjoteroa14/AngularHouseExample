@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+:root {
+  --title-font: "Oswald", sans-serif;
+  /* Color Pallette */
+  --bg-color1: #3c3e57;
+  --bg-color2: #20283d;
+  --font-color1: #efe4e1;
+}
+
+html {
+  background-color: var(--bg-color1);
+}
